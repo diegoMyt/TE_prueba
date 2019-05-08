@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>TE prueba</h1>
-        <p>Un proyecto para github</p>
+        <p>Un proyecto para github .</p>
     </body>
 </html>
